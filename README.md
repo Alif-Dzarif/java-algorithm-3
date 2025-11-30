@@ -1,4 +1,4 @@
-# Java Algorithm Task 2
+# Java Algorithm Task 3
 
 ## TODO
 
